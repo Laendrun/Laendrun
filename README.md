@@ -6,6 +6,8 @@ Currently...
 - 💾 Working on my cursus at *42 Lausanne*.
 - 🎶 Working on a big projet called `artistfinder`.
   - [Learn more here](https://www.artistfinder.world)
+
+(Yep, I'm busy)
   
 **BIO**
 
