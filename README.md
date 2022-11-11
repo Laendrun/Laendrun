@@ -6,6 +6,7 @@ Currently...
 - 💾 Working on my cursus at *42 Lausanne*.
 - 🎶 Working on a big projet called `artistfinder`.
   - [Learn more here](https://www.artistfinder.world)
+- 📘 I'm also building a Gitbook with [TheBrisly](https://github.com/TheBrisly) to describe what we are doing during our 42 Cursus
 
 (Yep, I'm busy)
   
