@@ -7,6 +7,7 @@ Currently...
 - 🎶 Working on a big projet called `artistfinder`.
   - [Learn more here](https://www.artistfinder.world)
 - 📘 I'm also building a Gitbook with [TheBrisly](https://github.com/TheBrisly) to describe what we are doing during our 42 Cursus
+  - [Find out more here](https://42-l-and-s.gitbook.io/42-cursus/) 
 
 (Yep, I'm busy)
   
