@@ -19,89 +19,13 @@ Currently...
 - 💬 Ask me about anything, it's always interesting and I'd love to help you.
 - 📫 How to reach me: [@Laendrun](https://twitter.com/Laendrun).
 
+[![saeby's 42 stats](https://badge42.vercel.app/api/v2/clajrtbie02590fl80dnr43p4/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laendrun&layout=compact&theme=dark)
 
 <details>
 <summary>Some stats</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laendrun&layout=compact&theme=dark)
-
 ![Laendrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laendrun&layout=compact&theme=dark)
-
-</details>
-
-<details>
-<summary>Some tests</summary>
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [11,48],
-              [11,45],
-              [5,45],
-              [5,48],
-              [11,48]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
- ```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-```
-
-**The Cauchy-Schwarz Inequality**
-
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 </details>
