@@ -14,7 +14,6 @@ Currently...
 **BIO**
 
 - 📍 From Switzerland :)
-- 🌱 I’m currently learning **Vue JS** and **Socket.io** (by myself with the help of [The Net Ninja](https://github.com/iamshaunjp)).
 - 🌱 I’m currently learning **C** and alot of other things at [42 Lausanne](https://www.42lausanne.ch).
 - 💬 Ask me about anything, it's always interesting and I'd love to help you.
 - 📫 How to reach me: [@Laendrun](https://twitter.com/Laendrun).
