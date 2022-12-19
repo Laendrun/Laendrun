@@ -18,5 +18,6 @@ Currently...
 - 💬 Ask me about anything, it's always interesting and I'd love to help you.
 - 📫 How to reach me: [@Laendrun](https://twitter.com/Laendrun).
 
-|---|---|
+| Top languages | Github Stats |
+| --- | --- |
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laendrun&layout=compact&theme=dark)|![Laendrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laendrun&layout=compact&theme=dark)|
