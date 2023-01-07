@@ -16,7 +16,7 @@ Currently...
 - 📍 From Switzerland :)
 - 🌱 I’m currently learning **C** and alot of other things at [42 Lausanne](https://www.42lausanne.ch).
 - 💬 Ask me about anything, it's always interesting and I'd love to help you.
-- 📫 How to reach me: [@Laendrun](https://twitter.com/Laendrun).
+- 📫 How to reach me: [@Laendrun](https://t.me/Laendrun).
 
 | Top languages | Github Stats |
 | --- | --- |
