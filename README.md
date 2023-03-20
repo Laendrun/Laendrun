@@ -1,5 +1,18 @@
 ## Welcome to my strange world made of malfunctionning code
 
+<div id="header" align="center">
+	<div id="badges">
+		<a href="https://www.linkedin.com/in/simon-aeby/">
+			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+		</a>
+		<a href="https://t.me/Laendrun">
+			<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+		</a>
+	</div>
+</div>
+
+<hr>
+
 *Let me introduce myself quickly (with some bullet points 'cause it's cool)*
 
 - :pushpin: From Switzerland :switzerland:
@@ -23,8 +36,36 @@
 
 <hr>
 
+*:hammer_and_wrench: my tools and languages (and other stuff)*
+
+<div>
+	<div id="icons" align="center">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=git,c,cpp,js,nodejs,vue,mongo,mysql,vscode,discord,html,css" />
+		</a>
+	</div>
+	<sub><sup>I love these things</sup></sub>
+</div>
+
+All the above are tools and languages I already know (some better than others), down below I'll put some of the one I want to learn / I am currently learning
+
+<div>
+	<div id="icons" align="center">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=ts,docker,rust,angular,react,kotlin,flutter,nextjs,py" />
+		</a>
+	</div>
+	<sub><sup>I'll stop there, I want to learn everything</sup></sub>
+</div>
+
+<hr>
+
 *These things look cool, so I'll put them here*
 
 | | |
 | --- | --- |
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laendrun&layout=compact&theme=dark)|![Laendrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laendrun&layout=compact&theme=dark)|
+
+*I wanted to put a 42 Badge, I found one that's awesome but it doesn't work currently*
+
+> click [here](https://github.com/JaeSeoKim/badge42) to go to their repo
