@@ -39,7 +39,7 @@
 
 <hr>
 
-## Game Jams
+## Game Jams
 
 ### UPsi Jam 2.0
 
