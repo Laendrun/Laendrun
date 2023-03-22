@@ -13,6 +13,8 @@
 
 <hr>
 
+## Intro
+
 *Let me introduce myself quickly (with some bullet points 'cause it's cool)*
 
 - :pushpin: From Switzerland :switzerland:
@@ -22,6 +24,7 @@
 
 <hr>
 
+## Projects 
 *My current projects (also with bullet points for the same reason as above)*
 
 - :desktop_computer: 42 Cursus, click [here](https://github.com/Laendrun/42) to go directly to the repo
@@ -33,6 +36,30 @@
 	- :robot: Telegram Bot that uses messages / stickers saved in the DB to send random messages (mainly used to joke around with my friends)
 - Personal website (I just now realised the code for my website isn't on GitHub :man_facepalming:)
 - :thought_balloon: And a million other projects in my head that I will maybe start someday (I should at least write them down somewhere or I'll forget them)
+
+<hr>
+
+## Game Jams
+
+### UPsi Jam 2.0
+
+- Date: 11.18.2022 - 11.20.2022
+- Theme: **Always More**
+- Rank: 9/21
+- Our game [here](https://diabolo257.itch.io/joastro).
+- All subsmissions [here](https://itch.io/jam/upsi-jam-2-0/entries).
+- Team:
+	- [Thomas](https://github.com/diabolo257)
+	- [Yassine](https://github.com/benybens)
+	- [Victor](https://www.linkedin.com/in/victor-h%C3%A9ran/)
+
+### UPsi Jam 3.0
+
+- Date: 04.21.2023 - 04.23.2023
+- Theme: **N/A**
+- Rank: **N/A**
+- Our game **N/A**.
+- All submissions **N/A**.
 
 <hr>
 
@@ -59,6 +86,8 @@ All the above are tools and languages I already know (some better than others), 
 </div>
 
 <hr>
+
+## Stats
 
 *These things look cool, so I'll put them here*
 
