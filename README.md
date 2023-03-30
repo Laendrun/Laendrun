@@ -39,27 +39,54 @@
 
 <hr>
 
-## Game Jams
+## Game Jams
 
-### UPsi Jam 2.0
+<details>
+	<summary>UPsi Jam 2.0</summary>
+	<ul>
+		<li>Date: 11.18.2022 - 11.20.2022</li>
+		<li>Theme: <strong>Always More<strong></li>
+		<li>Rank: 9/21</li>
+		<li>Our game <a href="https://diabolo257.itch.io/joastro">here</a></li>
+		<li>All submissions <a href="https://itch.io/jam/upsi-jam-2-0/entries">here</a></li>
+		<li>Team
+			<ul>
+				<li><a href="https://github.com/diabolo257">Thomas</a></li>
+				<li><a href="https://github.com/benybens">Yassine</a></li>
+				<li><a href="https://github.com/LeRoiErrant"></a>Victor</li>
+			</ul>
+		</li>
+	</ul>
+</details>
 
-- Date: 11.18.2022 - 11.20.2022
-- Theme: **Always More**
-- Rank: 9/21
-- Our game [here](https://diabolo257.itch.io/joastro).
-- All subsmissions [here](https://itch.io/jam/upsi-jam-2-0/entries).
-- Team:
-	- [Thomas](https://github.com/diabolo257)
-	- [Yassine](https://github.com/benybens)
-	- [Victor](https://www.linkedin.com/in/victor-h%C3%A9ran/)
+<details>
+	<summary>Jame Gam #26</summary>
+	<ul>
+		<li>Date: 03.24.2023 - 03.29.2023</li>
+		<li>Theme: <strong>You are the monster<strong></li>
+		<li>Special item: <strong>Card</strong></li>
+		<li>Rank: N/A</li>
+		<li>Our game <a href="https://laendrun.itch.io/jame-gam-26">here</a></li>
+		<li>All submissions <a href="https://itch.io/jam/jame-gam-26/entries">here</a></li>
+		<li>Team
+			<ul>
+				<li>mikoolec <a href="https://mikoolec.itch.io/">Itch</a> and <a href="https://creator.nightcafe.studio/u/mikoolec">NightCafe</a></li>
+				<li>space.fox <a href="https://spacewolfmusic.itch.io/">Itch</a> and <a href="https://soundcloud.com/spacewolfmusic">SoundCloud</a></li>
+			</ul>
+		</li>
+	</ul>
+</details>
 
-### UPsi Jam 3.0
-
-- Date: 04.21.2023 - 04.23.2023
-- Theme: **N/A**
-- Rank: **N/A**
-- Our game **N/A**.
-- All submissions **N/A**.
+<details>
+	<summary>UPsi Jam 3.0</summary>
+	<ul>
+		<li>Date: 04.21.2023 - 04.23.2023</li>
+		<li>Theme: N/A</li>
+		<li>Rank: N/A</li>
+		<li>Our game <a href="">N/A</a></li>
+		<li>All submissions <a href="">N/A</a></li>
+	</ul>
+</details>
 
 <hr>
 
