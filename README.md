@@ -122,6 +122,10 @@ All the above are tools and languages I already know (some better than others), 
 | --- | --- |
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laendrun&layout=compact&theme=dark)|![Laendrun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laendrun&layout=compact&theme=dark)|
 
+[![saeby's 42 stats](https://badge42.vercel.app/api/v2/clajrtbie02590fl80dnr43p4/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
+
 *I wanted to put a 42 Badge, I found one that's awesome but it doesn't work currently*
+
+*Now it's working but not sure how long it will so I'll leave the repo link there*
 
 > click [here](https://github.com/JaeSeoKim/badge42) to go to their repo
