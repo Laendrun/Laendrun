@@ -65,7 +65,7 @@
 		<li>Date: 03.24.2023 - 03.29.2023</li>
 		<li>Theme: <strong>You are the monster<strong></li>
 		<li>Special item: <strong>Card</strong></li>
-		<li>Rank: N/A</li>
+		<li>Rank: 34/86</li>
 		<li>Our game <a href="https://laendrun.itch.io/jame-gam-26">here</a></li>
 		<li>All submissions <a href="https://itch.io/jam/jame-gam-26/entries">here</a></li>
 		<li>Team
