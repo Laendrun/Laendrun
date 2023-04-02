@@ -45,7 +45,7 @@
 	<summary>UPsi Jam 2.0</summary>
 	<ul>
 		<li>Date: 11.18.2022 - 11.20.2022</li>
-		<li>Theme: <strong>Always More<strong></li>
+		<li>Theme: <strong>Always More</strong></li>
 		<li>Rank: 9/21</li>
 		<li>Our game <a href="https://diabolo257.itch.io/joastro">here</a></li>
 		<li>All submissions <a href="https://itch.io/jam/upsi-jam-2-0/entries">here</a></li>
