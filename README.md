@@ -77,17 +77,6 @@
 	</ul>
 </details>
 
-<details>
-	<summary>UPsi Jam 3.0</summary>
-	<ul>
-		<li>Date: 04.21.2023 - 04.23.2023</li>
-		<li>Theme: N/A</li>
-		<li>Rank: N/A</li>
-		<li>Our game <a href="">N/A</a></li>
-		<li>All submissions <a href="">N/A</a></li>
-	</ul>
-</details>
-
 <hr>
 
 *:hammer_and_wrench: my tools and languages (and other stuff)*
