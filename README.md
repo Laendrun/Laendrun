@@ -28,8 +28,6 @@
 *My current projects (also with bullet points for the same reason as above)*
 
 - :desktop_computer: 42 Cursus, click [here](https://github.com/Laendrun/42) to go directly to the repo
-- :notebook: [42 Complete Guide](42-cursus.gitbook.io/guide)
-	- This is a GitBook we are writing together with [Laura](https://github.com/TheBrisly). In it we explain our complete reasoning for all the 42 projects. It also helps us take note in a central place so that it can help other students that could be stuck on a problem.
 - :bulb: Trying some things with a [personal API](https://github.com/Laendrun/personal_api)
 	- :old_key: Implemented a simple authentication system
 	- :file_cabinet: Communication with a Mongo database
