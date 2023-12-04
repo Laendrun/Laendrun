@@ -28,10 +28,7 @@
 *My current projects (also with bullet points for the same reason as above)*
 
 - :desktop_computer: 42 Cursus, click [here](https://github.com/Laendrun/42) to go directly to the repo
-- :bulb: Trying some things with a [personal API](https://github.com/Laendrun/personal_api)
-	- :old_key: Implemented a simple authentication system
-	- :file_cabinet: Communication with a Mongo database
-	- :robot: Telegram Bot that uses messages / stickers saved in the DB to send random messages (mainly used to joke around with my friends)
+	- :notebook: [42 Complete Guide](https://42-cursus.gitbook.io/guide/)  with [TheBrisly](https://github.com/TheBrisly)
 - Personal website (I just now realised the code for my website isn't on GitHub :man_facepalming:)
 - :thought_balloon: And a million other projects in my head that I will maybe start someday (I should at least write them down somewhere or I'll forget them)
 
