@@ -11,14 +11,10 @@
 	</div>
 </div>
 
-<hr>
-
 ## Intro
 
 - :pushpin: From Switzerland :switzerland:
 - :man_technologist: Part-time IT Technician (you know, user support, formation, all of that...)
-
-<hr>
 
 ## Projects 
 *My current projects (also with bullet points for the same reason as above)*
